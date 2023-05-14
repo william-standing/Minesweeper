@@ -56,7 +56,6 @@ for i in range(MINES):
     y = locations[i][1]
     board[y][x] = 1
 
-
 def get_mouse_click_pos(x, y):
     global MINES
     global flaging

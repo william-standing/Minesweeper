@@ -197,9 +197,7 @@ def get_mouse_click_pos(x, y):
             time.sleep(10000)
                 
         turtle.update()
-        
-        
-
+ 
 
 def swap_flag():
     global flaging

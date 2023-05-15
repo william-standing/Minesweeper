@@ -1,5 +1,5 @@
 # Minesweeper
-#it is the mine sweeper game in python code but zeroes only semi fill
+#it is the mine sweeper game in python code
 import turtle
 import random
 import time
